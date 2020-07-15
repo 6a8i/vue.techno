@@ -14,7 +14,7 @@ Simple project of a e-commerce site with a clean visual.
 
 ## How to see this working
 1. Clone or download this repository.
-2. If you downloaded, then unzip the folder and open the 'index.html'file in your browser. Else, just open the file in your browser.
+2. If you downloaded, then unzip the folder and open the 'index.html' file in your browser. Else, just open the file in your browser.
 3. Yeah, it must be working!!!
 
 #### Observations: 
