@@ -1,0 +1,26 @@
+{
+    "id": 4,
+    "name": "Apple Watch Series 5",
+    "type": "watch",
+    "price": 399,
+    "description": "The most advanced Apple Watch yet, featuring the Always-On Retina display, the ECG app, international emergency calling, fall detection, and a built‑in compass.",
+    "stock": 10,
+    "img": "./api/produtos/watch/watch-series-5.jpeg",
+    "reviews": [
+        {
+            "name": "Hugo",
+            "star": 5,
+            "comment": "In terms of functionality, behavior and quality, this is what is expected of any Apple product. Only the battery disappoints, with an average duration of 1 day, depending on usage, number of notifications, calls, etc. It does not have native sleep tracking, so it is necessary to install a third party application. GPS sometimes has some \"flaws\", recording routes a little out of reality. There are other more accurate products, with bigger battery, more features and cheaper, but for those who have iPhone, this is the best choice."
+        },
+        {
+            "name": "Julie",
+            "star": 5,
+            "comment": "I am very satisfied with the product."
+        },
+        {
+            "name": "Sergey",
+            "star": 5,
+            "comment": "Quality, intuition and design ... the brand's three l vectors are very clear. Only autonomy leaves something to be desired! It is almost mandatory to carry the watch every day!"
+        }
+    ]
+}

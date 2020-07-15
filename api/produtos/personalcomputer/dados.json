@@ -1,0 +1,26 @@
+{
+    "id": 6,
+    "name": "iMac",
+    "type": "personalcomputer",
+    "price": 999,
+    "description": "The vision behind iMac has never wavered: Transform the desktop experience by fitting powerful, easy-to-use technology into an elegant, all-in-one design. The new iMac takes that idea to the next level — giving you even more amazing tools to do just about anything. iMac is packed with the latest processors, faster memory, and phenomenal graphics. All coming to life on the brightest, most vibrant Retina display ever on a Mac. It’s the total package — powered up.",
+    "stock": 5,
+    "img": "./api/produtos/personalcomputer/personalcomputer-imac.jpg",
+    "reviews": [
+        {
+            "name": "Peter",
+            "star": 5,
+            "comment": "I am very satisfied with this notebook at all levels, it was an excellent investment."
+        },
+        {
+            "name": "Jhon",
+            "star": 3,
+            "comment": "When you spend $2,000 on a computer you expect it to “just work”, no? Especially a Mac which has all the accolades and bragging under its belt. In this case initial impressions are severely disappointing."
+        },
+        {
+            "name": "Sasha",
+            "star": 5,
+            "comment": "I have been using MacBook Pros for many years. This model combines the best features in the newest MacBook Pro at a good price."
+        }
+    ]
+}

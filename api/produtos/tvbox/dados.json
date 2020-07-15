@@ -1,0 +1,26 @@
+{
+    "id": 5,
+    "name": "Apple TV",
+    "type": "tvbox",
+    "price": 599,
+    "description": "From TV shows, movies, and live sports to thousands of games and apps, it’s all available on Apple TV. Enjoy content from iTunes and apps like Amazon Prime Video, ESPN, Hulu, and Netflix — or use the Siri Remote to find just what you want. And with the Apple TV App, you can enjoy all your favorite content on iPhone, iPad, and Apple TV.",
+    "stock": 4,
+    "img": "./api/produtos/tvbox/tvbox-tv.jpeg",
+    "reviews": [
+        {
+            "name": "Monic",
+            "star": 5,
+            "comment": "In the Apple world, this is an unmissable product. The MEO GO application has greatly enhanced this product, which is an authentic portable box in your home. The image quality is superb and the various applications enhance the rest of the product."
+        },
+        {
+            "name": "Simon",
+            "star": 4,
+            "comment": "I already had a 4th generation Apple TV but I bought it essentially to watch the Apple TV + service at 4K. I could do it using the iPhone but it was not very practical."
+        },
+        {
+            "name": "Joseph",
+            "star": 4,
+            "comment": "The command has many hidden options, which have to be searched on Youtube and then memorized"
+        }
+    ]
+}

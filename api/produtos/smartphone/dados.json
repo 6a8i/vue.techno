@@ -1,0 +1,26 @@
+{
+    "id": 2,
+    "name": "Iphone SE 2",
+    "type": "smartphone",
+    "price": 399,
+    "description": "iPhone SE packs our most powerful chip into our most popular size at our most affordable price. It’s just what you’ve been waiting for.",
+    "stock": 10,
+    "img": "./api/produtos/smartphone/iphone-se-2.jpeg",
+    "reviews": [
+        {
+            "name": "Sophie",
+            "star": 5,
+            "comment": "Who wants to have a top of the range at low cost will not find better than this. The battery lasts for weeks."
+        },
+        {
+            "name": "Jane",
+            "star": 5,
+            "comment": "I am very satisfied with the product because it is in the quality / price ratio that Apple used to us."
+        },
+        {
+            "name": "Micke",
+            "star": 5,
+            "comment": "The iPhone SE 2020 exceeded my expectations ..."
+        }
+    ]
+}

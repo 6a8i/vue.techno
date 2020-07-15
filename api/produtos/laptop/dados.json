@@ -1,0 +1,26 @@
+{
+    "id": 1,
+    "name": "MacBook Air",
+    "type": "laptop",
+    "price": 2199,
+    "description": "The incredibly thin and light MacBook Air is now more powerful than ever. It features a brilliant Retina display, new Magic Keyboard, Touch ID, processors with up to twice the performance,1 faster graphics, and double the storage capacity. The sleek wedge-shaped design is created from 100 percent recycled aluminum, making it the greenest Mac ever.2 And with all-day battery life, our most popular Mac is your perfectly portable, do-it-all notebook.",
+    "stock": 12,
+    "img": "./api/produtos/laptop/laptop-macbook-air.jpeg",
+    "reviews": [
+        {
+            "name": "Peter",
+            "star": 5,
+            "comment": "I am very satisfied with this notebook at all levels, it was an excellent investment."
+        },
+        {
+            "name": "Jhon",
+            "star": 3,
+            "comment": "When you spend $2,000 on a computer you expect it to “just work”, no? Especially a Mac which has all the accolades and bragging under its belt. In this case initial impressions are severely disappointing."
+        },
+        {
+            "name": "Sasha",
+            "star": 5,
+            "comment": "I have been using MacBook Pros for many years. This model combines the best features in the newest MacBook Pro at a good price."
+        }
+    ]
+}

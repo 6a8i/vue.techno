@@ -1,0 +1,26 @@
+{
+    "id": 3,
+    "type": "ipad",
+    "name": "Ipad Pro",
+    "price": 799,
+    "description": "It’s a magical piece of glass. It’s so fast most PC laptops can’t catch up. It has pro cameras that can transform reality. And you can use it with touch, pencil, keyboard, and now trackpad. It’s the new iPad Pro.",
+    "stock": 5,
+    "img": "./api/produtos/ipad/ipad-pro.jpeg",
+    "reviews": [
+        {
+            "name": "Christopher",
+            "star": 5,
+            "comment": "Very light, fast and easy to use. Long battery life. It's not cheap, but I think it's worth it."
+        },
+        {
+            "name": "Alan",
+            "star": 3,
+            "comment": "This iPad is very much improved from my aging 1st generation iPad Air. It's much faster, & has a vastly improved display. The surprise came after I received it. Think you have much improved performance over the previous-generation 2-year old iPad Pro? Think again."
+        },
+        {
+            "name": "Ryan",
+            "star": 5,
+            "comment": "The iPad Pro 2020 is blazing fast, has an amazingly sharp display, an incredibly sharp camera, and some cool gadgets and apps built in. A little on the pricey side, but all-in-all, it is a great piece of equipment and a marvel of engineering."
+        }
+    ]
+}

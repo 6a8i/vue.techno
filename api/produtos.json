@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Macbook Air",
+        "type": "laptop",
+        "price": 2999,
+        "img": "./api/produtos/laptop/laptop.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Iphone SE 2",
+        "type": "smartphone",
+        "price": 1299,
+        "img": "./api/produtos/smartphone/smartphone.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Ipad Pro",
+        "type": "ipad",
+        "price": 899,
+        "img": "./api/produtos/ipad/ipad.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Apple Watch Series 5",
+        "type": "watch",
+        "price": 599,
+        "img": "./api/produtos/watch/watch.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Apple TV",
+        "type": "tvbox",
+        "price": 599,
+        "img": "./api/produtos/tvbox/tvbox.jpg"
+    },
+    {
+        "id": 6,
+        "name": "iMac",
+        "type": "personalcomputer",
+        "price": 1399,
+        "img": "./api/produtos/personalcomputer/personalcomputer.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Home Pod",
+        "type": "speaker",
+        "price": 399,
+        "img": "./api/produtos/speaker/speaker.jpg"
+    }
+]
