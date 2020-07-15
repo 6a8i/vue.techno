@@ -11,3 +11,11 @@ Simple project of a e-commerce site with a clean visual.
 - Stock controll
 - Cart functionalities: Add and Remove itens
 - Viewing products with reviews 
+
+## How to see this working
+1º - Clone or download this repository.
+2º - If you downloaded, then unzip the folder and open the 'index.html'file in your browser. Else, just open the file in your browser.
+3º - Yeah, it must be working!!!
+
+#### Observations: 
+- Perhaps you will need to permit your browser to load files from your computer, you can see this configuration in the configuration of you browser under the development tools of it.
